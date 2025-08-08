@@ -4,7 +4,7 @@ A dynamic and interactive dashboard built using **Microsoft Power BI**, designed
 
 ## 📁 Project Files
 
-- `myntra_sales_dashboard.pbix` – Power BI dashboard file  
+- `myntra_sales_analysis.pbix` – Power BI dashboard file  
 - `myntra_dashboard.png` – Dashboard preview image  
 - `README.md` – Project documentation
 
@@ -26,11 +26,5 @@ A dynamic and interactive dashboard built using **Microsoft Power BI**, designed
 - **DAX (Data Analysis Expressions)** – Calculated measures and KPIs  
 - **Custom Visualizations** – Slicers, filters, cards, pie charts, bar graphs
 
-## 🚀 How to Use
 
-1. Clone or download the repository  
-2. Open `myntra_sales_dashboard.pbix` in Power BI Desktop  
-3. Ensure `myntra_dataset.xlsx` is in the same directory  
-4. Refresh the data if prompted  
-5. Explore the dashboard using interactive filters and visuals
 
